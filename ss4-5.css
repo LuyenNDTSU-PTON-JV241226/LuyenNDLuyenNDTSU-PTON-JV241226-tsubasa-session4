@@ -1,1 +1,7 @@
-p {color: rgb(10, 3, 3); background-color: chocolate;}
+.a {color: #da2215;}
+.b {
+    padding: 10px 20px;
+    margin: 0 0 20px;
+    border-left: 5px solid #e55710;
+    background-color: #f0e8a4;
+    }
