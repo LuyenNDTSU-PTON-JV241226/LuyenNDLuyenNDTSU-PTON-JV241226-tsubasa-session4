@@ -1,7 +1,5 @@
 span {color: dodgerblue;}
-.ss4.4 {
-    width: 200px;
-     height: 100px;
-    border: 2px;
-    
-    }
+div {border: 1px solid black ;width: 50%;
+}
+.a {margin-top: 0px;}
+.b {margin-bottom: 0px;}
